@@ -9,7 +9,7 @@
                     <FindMe :label="e.label" :icon="e.icon" :url="e.url" />
                 </li>
             </ul>
-            <p>Ou me manda um email em <span class="tracking-widest">hi@luissena.dev</span>
+            <p>Ou me manda um email em <span class="tracking-widest">luis.senarode@gmail.com</span>
             </p>
         </section>
 
